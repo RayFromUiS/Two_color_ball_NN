@@ -1,4 +1,4 @@
-# scrapy_NN
+Two color ball nn project
 
 this project is an intergrated project from data collecting,data wrangling,machine learning.
 
