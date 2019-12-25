@@ -8,7 +8,7 @@ this project is an intergrated project from data collecting,data wrangling,machi
 - module from python, time has been embeded
 - data saved as dictionary form
 
-2. data cleaning
+2.data cleaning
 - convert dictionary data to a dataframe form
 - such column are used in a manner of feeding the machine algorithm
 
